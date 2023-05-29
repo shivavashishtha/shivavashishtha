@@ -9,7 +9,7 @@ Data Analytics professional having 2+ years of experience in Jobaaj. Extensive e
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> **About Me**:  
   
-- 🏦 I'm a **Data Anakyst** working at Nishtya Infotech Pvt Ltd (Jobaaj Group), Gurugram
+- 🏦 I'm a **Data Anakyst** working at Schenider Electric, Gurugram
 - 📈 Additionally am a Data Analytics Trainer at Jobaaj Learnings
 - 💻 Currently Exploring Data Extraction and Exploration using various Tools and Technologies  
 - 👯 I am interested in collaborating on Analytics Projects (Dataset Expert and Notebook Expert on Kaggle)
